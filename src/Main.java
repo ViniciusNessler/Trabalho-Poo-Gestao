@@ -5,6 +5,7 @@ import java.util.Scanner;
 public class Main {
     public static void main(String[] args) {
 
+
         List<CadastrarGasto> listaGastos = new ArrayList<>();
         List<CadastrarGanho> listaGanhos = new ArrayList<>();
         int opcaoMenu = 0;
